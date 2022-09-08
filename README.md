@@ -70,3 +70,9 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+## APP
+
+[Frontend] (http://hosny-udegram.s3-website-us-east-1.amazonaws.com)
+[api] (http://udagram-env.eba-r3czafwt.us-east-1.elasticbeanstalk.com)
+
